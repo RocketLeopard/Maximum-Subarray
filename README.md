@@ -16,5 +16,5 @@
 空间复杂度：O(1)，使用了常数的空间。  
 
 ## 备注
-来源 力扣（LeetCode）
+来源：力扣（LeetCode）
 链接：https://leetcode-cn.com/problems/maximum-subarray
